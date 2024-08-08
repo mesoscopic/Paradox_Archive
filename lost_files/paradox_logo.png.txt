@@ -1,0 +1,2 @@
+Funny enough, you didn't even have to download the Paradox Vision extension for it to be useful for something. This is the icon for Paradox Vision, and on the download page this icon would actually be interactive.
+You could drag certain files related to the ARG onto it and the text on the page would change to an encrypted string telling you something about that file. It didn't make a lot of sense in the lore, and it'd be ridiculously hard to figure out, so I wasn't going to lock any progression behind this, maybe just some extra hints.

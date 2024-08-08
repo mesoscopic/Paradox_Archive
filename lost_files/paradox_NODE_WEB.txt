@@ -1,0 +1,3 @@
+NODE_WEB was meant to be the website at the beginning of the ARG, which I had only started work on. It would serve many different purposes, including being the download point for the Paradox Vision extension.
+You could submit your email address to get weekly emails from Paradox Advertising, which would be mostly useless but sometimes contain hint-ish things.
+You were going to be able to sign up for an account, but I changed my mind and I was going to make the login page require a captcha that wasn't actually there, and some of the weekly emails would be about how "we're working on implementing captcha" which they never actually did. It's a fake business anyway, can't expect them to actually work on it :)

@@ -1,0 +1,3 @@
+Setting up the phone number was easy (and free)
+The hard part was getting it to do the things that a business phone number might do - most importantly, I wanted it to place you on hold (but not actually, it would have to be custom to play the music) until I could pick up as Gimean.
+This was the sound that would play when out of "Business Hours", asking you to leave a voicemail.
